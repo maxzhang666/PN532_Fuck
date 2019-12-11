@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PN532 Fuck 2.0", "PN532破解全加密GUI by (蛐蛐V2.0)\PN532 Fuck 2.0.csproj", "{103652A7-960A-44FE-9D91-6FBB548E0691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PN532 Fuck 2.1", "..\ququ21\PN532破解全加密GUI by (蛐蛐V2.0)\PN532 Fuck 2.1.csproj", "{5FF214D7-3D02-4542-BDA1-E130A5BC3D4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103652A7-960A-44FE-9D91-6FBB548E0691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103652A7-960A-44FE-9D91-6FBB548E0691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103652A7-960A-44FE-9D91-6FBB548E0691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103652A7-960A-44FE-9D91-6FBB548E0691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF214D7-3D02-4542-BDA1-E130A5BC3D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF214D7-3D02-4542-BDA1-E130A5BC3D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF214D7-3D02-4542-BDA1-E130A5BC3D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF214D7-3D02-4542-BDA1-E130A5BC3D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {398E1FCE-0551-42B6-8D94-30D948A47609}
+	EndGlobalSection
+EndGlobal
